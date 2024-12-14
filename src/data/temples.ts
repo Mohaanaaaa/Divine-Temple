@@ -43,7 +43,7 @@ export const bengaluruAreas: Area[] = [
           timings: "6:00 AM - 8:00 PM",
           mainDeity: "Nandi (Bull)",
           specialPujas: ["Kadalekai Parishe", "Monthly New Moon Puja"],
-          image: "",
+          image: "https://www.shutterstock.com/image-photo/bangalore-karnataka-india-october-20-600nw-1224752452.jpg",
           address: "Bull Temple Rd, Basavanagudi, Bengaluru",
           mapLink: "https://maps.app.goo.gl/w6cY2fs1WbnKsdTt9"// Example Google Maps link
         },
@@ -129,7 +129,7 @@ export const bengaluruAreas: Area[] = [
           timings: "6:00 AM - 12:00 PM, 5:30 PM - 8:30 PM",
           mainDeity: "Lord Venkateshwara",
           specialPujas: ["Vaikunta Ekadashi", "Saturdays Special Archana"],
-          image: "https://images.unsplash.com/photo-1506784685320-f8b64e52b4d3?auto=format&fit=crop&q=80",
+          image: "https://lh3.googleusercontent.com/p/AF1QipOiB9GH_rvqGCQO_grrhVcgkBL-N16ZolZM4yD7=s1360-w1360-h1020",
           address: "Chickpet Main Rd, Bengaluru",
           mapLink: "https://goo.gl/maps/example1"
         }
@@ -214,7 +214,7 @@ export const bengaluruAreas: Area[] = [
           timings: "6:00 AM - 1:00 PM, 4:00 PM - 8:00 PM",
           mainDeity: "Goddess Madduramma",
           specialPujas: ["Navaratri", "Tuesday Special Abhishekam"],
-          image: "https://images.unsplash.com/photo-1551642961-13f77c348e53?auto=format&fit=crop&q=80",
+          image: "https://content3.jdmagicbox.com/v2/comp/bangalore/l3/080pxx80.xx80.191120200106.v6l3/catalogue/sri-madduramma-devi-temple-huskur-bangalore-temples-fzge4ja9x9.jpg",
           address: "Huskur, Bengaluru",
           mapLink: 'https://maps.app.goo.gl/Pb3wDeECtmUsDZZt8'
         }
@@ -250,7 +250,7 @@ export const bengaluruAreas: Area[] = [
           timings: "7:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",
           mainDeity: "Lord Hanuman",
           specialPujas: ["Hanuman Jayanti", "Saturday Special Abhisheka"],
-          image: "https://images.unsplash.com/photo-1582802959744-a2709c2a6b8b?auto=format&fit=crop&q=80",
+          image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6mPK77_mG5nfkLGG5bahcDbguWASG9N9yw&s",
           address: "9th Block, Jayanagar, Bengaluru",
           mapLink: "https://maps.app.goo.gl/hA1TqR4PjVW2JWDQ9"
         }
@@ -269,7 +269,7 @@ export const bengaluruAreas: Area[] = [
           timings: "6:30 AM - 12:00 PM, 5:00 PM - 8:30 PM",
           mainDeity: "Lord Shiva",
           specialPujas: ["Maha Shivaratri", "Monthly Shivratri"],
-          image: "https://images.unsplash.com/photo-1590766940554-153a4d9afce0?auto=format&fit=crop&q=80",
+          image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFMuc7SSOoAr9QSRrMIt22JqUpdT4d7kq8g&s",
           address: "15th Cross, Malleswaram, Bengaluru",
           mapLink: 'https://maps.app.goo.gl/Zd72iC9t3x727sY76'
         },
@@ -317,7 +317,7 @@ export const bengaluruAreas: Area[] = [
           timings: "6:30 AM - 12:30 PM, 5:30 PM - 8:30 PM",
           mainDeity: "Lord Shiva",
           specialPujas: ["Maha Shivaratri", "Rudrabhisheka"],
-          image: "https://images.unsplash.com/photo-1586790907667-cdb98f96c5b6?auto=format&fit=crop&q=80",
+          image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrh6UaaCQZlPIz7xou3W7ezm3TxPp9__zKCg&s",
           address: "Madiwala, Bengaluru",
           mapLink: "https://goo.gl/maps/example1"
         }
@@ -335,7 +335,7 @@ export const bengaluruAreas: Area[] = [
           timings: "6:00 AM - 1:00 PM, 5:00 PM - 9:00 PM",
           mainDeity: "Lord Shiva",
           specialPujas: ["Pradosha Puja", "Maha Shivaratri"],
-          image: "https://images.unsplash.com/photo-1562089286-34c3402a70b1?auto=format&fit=crop&q=80",
+          image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7LHckH54vecEdsxo820xrl-BY7ZRNVpJseABmLMtUmc3mz5vIzoE2UMusczQ-yxRWynjJu-gMJvSVSLqpq7j98kDCJjlXsTaoAwJa7nqBo5e_xnY5nLrxtBxumcpgcmS8Pnp18qDt1Ps/s1600/Sri+Someshwara+temple+%252C+Marathahalli+-+Gopuram.jpg",
           address: "Marathahalli, Bengaluru",
           mapLink: "https://goo.gl/maps/example1"
         }
@@ -374,7 +374,7 @@ export const bengaluruAreas: Area[] = [
           timings: "6:00 AM - 1:00 PM, 5:30 PM - 9:00 PM",
           mainDeity: "Lord Shiva",
           specialPujas: ["Maha Shivaratri", "Pradosha Puja"],
-          image: "https://images.unsplash.com/photo-1524087015471-5cacc2e36693?auto=format&fit=crop&q=80",
+          image: "https://i.ytimg.com/vi/k-jJ6I8FNNs/maxresdefault.jpg",
           address: "Kondrahalli, Bengaluru",
           mapLink: "https://goo.gl/maps/example1"
         }
@@ -443,7 +443,7 @@ export const bengaluruAreas: Area[] = [
           timings: "6:30 AM - 12:00 PM, 5:00 PM - 8:30 PM",
           mainDeity: "Sri Veerabhadra",
           specialPujas: ["Maha Shivaratri", "Veerabhadra Jayanti"],
-          image: "https://images.unsplash.com/photo-1525029639621-541fd31b1c8b?auto=format&fit=crop&q=80",
+          image: "https://content3.jdmagicbox.com/v2/comp/bangalore/d4/080pxx80.xx80.180328020231.a3d4/catalogue/veerabhadra-swamy-temple-vidyaranyapura-bangalore-temples-j0p8gybdvh.jpg",
           address: "Thindlu Main Rd, Bengaluru",
           mapLink: "https://maps.app.goo.gl/jPhGENfvHfRS6oYv7"
         }
