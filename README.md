@@ -12,7 +12,7 @@ The Divine Temple project is a  project is built using  Vite React JS framework 
 
 ### Prerequisites
 Before you begin, ensure you have met the following requirements:
-- List necessary prerequisites, e.g., vite-React JS,  ]
+- List necessary prerequisites, e.g., vite-React JS, Tailwind
 - Any other dependencies or tools required
     "@eslint/js": "^9.9.1",
     "@types/react": "^18.3.5",
