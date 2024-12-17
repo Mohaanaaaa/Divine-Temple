@@ -32,4 +32,7 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohaanaaaa/Divine-Temple.git
+      git clone https://github.com/Mohaanaaaa/Divine-Temple.git
+2. Install all dependencies [using NPM]
+   ```bash
+    npm install 
