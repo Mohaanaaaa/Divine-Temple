@@ -37,7 +37,7 @@ function App() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-orange-200">
-                Email: info@sacredspaces.com<br />
+                Email:mohanay52@gmail.com<br />
                 Phone: +1 (555) 123-4567
               </p>
             </div>
