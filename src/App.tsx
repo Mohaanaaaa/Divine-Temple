@@ -38,7 +38,7 @@ function App() {
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-orange-200">
                 Email:mohanay52@gmail.com<br />
-                Phone: +1 (555) 123-4567
+                Phone: +91 (555) 123-4567
               </p>
             </div>
           </div>
