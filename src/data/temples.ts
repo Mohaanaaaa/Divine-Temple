@@ -452,26 +452,20 @@ export const bengaluruAreas: Area[] = [
 ];
 
 export const latestNews = [
-  {
+ {
     id: "1",
-    title: "Annual Kadalekai Parishe at Bull Temple",
-    date: "2024-03-15",
-    category: "Festival",
-    description: "The historic groundnut fair returns to Bull Temple Road this weekend."
-  },
-  {
-    id: "2",
-    title: "Special Rama Navami Celebrations",
-    date: "2024-03-12",
-    category: "Event",
-    description: "Multiple temples across Bengaluru prepare for grand Rama Navami celebrations."
-  },
-  {
-    id: "3",
     title: "Makar Sankranti @ Shri Gavi Gangadhareshwara Temple",
     date:"2025-01-14/15",
     catefory: "Cultural",
-    description:" Celebrated on January 15, 2024, sunlight passes through an arc between the horns of Nandi and falls directly on the linga inside the cave and illuminating the interior idol for an hour. "
+    description:" Celebrated on January 15, 2024, sunlight passes through an arc between the horns of Nandi and falls directly on the linga inside the cave and illuminating the interior idol for an hour. Try see the valuable nature magic on that day"
   }
+  {
+    id: "2",
+    title: "Festivel on Shivagange hills",
+    date: "2025-01-14",
+    category: "Event",
+    description: "asuslly festival in shivagange hills ,such nature hills ,try too hill up on top!!.that hills full of people on that"
+  },
+  
   
 ];
