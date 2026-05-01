@@ -445,7 +445,7 @@ export const bengaluruAreas: Area[] = [
           specialPujas: ["Special pujas are performed during Vaikunta Ekadasi, Diwali, and Rama Navami festivals"],
           image: "https://example.com/images/vasantapura_vasanta_vallabharaya.jpg" ,
           address: "Vasanthapura Bus Stop, Subramanyapura, Bengaluru, Karnataka 560061",
-          mapLink:'https://maps.app.goo.gl/8rQ6jGaCfb6uidb69'
+          mapLink:'https://maps.app.goo.gl/4D1R6nKwUsP5QJaD6'
         }
       ]
     },
