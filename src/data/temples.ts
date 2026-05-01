@@ -433,7 +433,7 @@ export const bengaluruAreas: Area[] = [
     },
       {
       id: "vasantapura ",
-      name: "vasantapura vasanta vallabharaya ",
+      name: "vasantapura",
       temples: [
         {
           id: "Sri Vasantapura Vasanta vallabharaya",
