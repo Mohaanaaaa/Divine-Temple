@@ -432,17 +432,21 @@ export const bengaluruAreas: Area[] = [
       ]
     },
       {
-      id: "vasantapura vasanta vallabharaya",
-      name: "Vasantapura Vasanta Vallabharaya Temple",
-      area: "Vasantapura",
-      history: "The Vasantapura Vasanta Vallabharaya Temple is a historic Hindu temple located in the Vasantapura area of Bangalore. The temple is dedicated to Lord Vasanta Vallabharaya, a form of Lord Vishnu. It is believed to have been constructed during the Hoysala or Vijayanagara period, showcasing exquisite architecture and intricate carvings. The temple has been a center of worship and cultural activities for centuries, attracting devotees from all over Bangalore. The region around the temple has developed into a vibrant locality, blending tradition with modernity.",
-      timings: "Open from 6:00 AM to 8:00 PM daily.",
-      mainDeity: "Vasanta Vallabharaya (Vishnu)",
-      specialPujas: ["Special pujas are performed during Vaikunta Ekadasi, Diwali, and Rama Navami festivals."],
-      image: "https://example.com/images/vasantapura_vasanta_vallabharaya.jpg",
-      address: "Vasantapura Vasanta Vallabharaya Temple, Vasantapura, Bangalore, Karnataka 560061",
-      mapLink: "https://maps.app.goo.gl/examplelink"
-    },
+      id: "Vasantapura",
+      name: "Vasantapura",
+      temples: [
+        {
+          id: "vasantapura-vasanta-vallabharaya-temple",
+          name: "Sri vasantapura vasanta vallabharaya",
+          area: "Vasantapura",
+          history: "The Vasantapura Vasanta Vallabharaya Temple is a historic Hindu temple located in the Vasantapura area of Bangalore. The temple is dedicated to Lord Vasanta Vallabharaya, a form of Lord Vishnu. It is believed to have been constructed during the Hoysala or Vijayanagara period, showcasing exquisite architecture and intricate carvings. The temple has been a center of worship and cultural activities for centuries, attracting devotees from all over Bangalore. The region around the temple has developed into a vibrant locality, blending tradition with modernity.",
+          timings: "Open from 6:00 AM to 8:00 PM daily.",
+          mainDeity: "Vasanta Vallabharaya (Vishnu)",
+          specialPujas: ["Special pujas are performed during Vaikunta Ekadasi, Diwali, and Rama Navami festivals."],
+          image: "https://example.com/images/vasantapura_vasanta_vallabharaya.jpg",
+          address: "Vasantapura Vasanta Vallabharaya Temple, Vasantapura, Bangalore, Karnataka 560061",
+          mapLink: "https://maps.app.goo.gl/examplelink"
+        },
     {
       id: "thindlu",
       name: "Thindlu",
