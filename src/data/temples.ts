@@ -455,8 +455,15 @@ export const latestNews = [
  {
     id: "1",
     title: "Makar Sankranti @ Shri Gavi Gangadhareshwara Temple",
-    date:"2025-01-14/15",
+    date:"2026-01-14/15",
     catefory: "Cultural",
     description:" Celebrated on January 15, 2024, sunlight passes through an arc between the horns of Nandi and falls directly on the linga inside the cave and illuminating the interior idol for an hour. Try see the valuable nature magic on that day"
+  }, 
+  {
+    id: "2",
+    title: "full moon day special pooja in Gavi Ganagadareswara ",
+    date:"2026-04-01",
+    catefory: "Cultural",
+    description:"full moon day special in every temple, mainly in shiva temples. join and have Blessing!"
   }, 
 ];
